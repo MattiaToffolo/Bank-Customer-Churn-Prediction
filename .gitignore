@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset — download from Kaggle
+Churn_Modelling.csv
+
+# Saved models
+*.h5
+*.pkl
+*.joblib
