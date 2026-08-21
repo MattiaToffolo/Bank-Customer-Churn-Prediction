@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction
 
-End-to-end ML project on 10,000 bank customers. Covers the full pipeline from EDA to model explainability, comparing six different approaches including an Artificial Neural Network.
+Banks lose customers silently. Without a model, the retention team has no idea who is about to leave until it is too late. Goal: flag at-risk customers early enough to act. Built a end-to-end ML pipeline on 10K customers. Covers the full pipeline from EDA to model explainability, comparing six different approaches including an Artificial Neural Network. Result: 83% Recall, meaning 8 out of 10 churners identified before they leave, giving the retention team an actionable list.
 
 ---
 
